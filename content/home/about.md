@@ -10,31 +10,22 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Embedded Computing",
+    "Internet of Things",
+    "Wireless communication",
+    "Kernel Development"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Computer Engineering: Software Option Co-op"
+  institution = "University of Alberta"
+  year = 2018
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Curtis Malainey is a Software Engineer at Google Inc. His interests include The Internet Of Things, embedded computing and wireless communication. He leads the U of A's Computer Engineering Clubs Hackathon Committee, which runs the HackED and HackED Beta hackathons. He also is the Co-VP External for the Computer Engineering Club which represents of the all the Computer Engineering students.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+When he is not programming on his side projects, he enjoys rock climbing, volunteering and playing lots of sports.
